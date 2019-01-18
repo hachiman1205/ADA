@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\paulg\OneDrive\Documents\GitHub\ADA\Lesson1\default.gpr
+20190118211508
+[BOUND OBJECT FILES]
+C:\Users\paulg\OneDrive\Documents\GitHub\ADA\Lesson1\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\paulg\OneDrive\Documents\GitHub\ADA\Lesson1\obj\
+-LC:\Users\paulg\OneDrive\Documents\GitHub\ADA\Lesson1\obj\
+-LC:/gnat/2017/lib/gcc/i686-pc-mingw32/6.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2017/lib/gcc/i686-pc-mingw32/6.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
